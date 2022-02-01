@@ -14,7 +14,7 @@ class Square extends React.Component {
 }
 
 Square.propTypes = {
-  value: PropTypes.bigint,
+  value: PropTypes.number,
 };
 
 class Board extends React.Component {
