@@ -23,7 +23,7 @@ class Square extends React.Component {
 }
 
 Square.propTypes = {
-  value: PropTypes.number,
+  value: PropTypes.string,
 };
 
 class Board extends React.Component {
